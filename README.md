@@ -1,0 +1,2 @@
+# QuicklyDisableModule
+快速禁用Magisk模块，在开机时检测到共计4次任意音量键按下后，禁用所有Magisk模块并重启。
